@@ -27,13 +27,13 @@ function johnLennonFacts(facts){
   return newEmptyArray;
 }
 function iLoveTheBeatles(number){
- var result = "";
- // var i = 0;
+
+var array = [];
 
 do {
-  number = number + 1;
-  result = result + number;
-} while (i < 15);
+
+
+} while (number < 15);
 
 console.log(result);
 // expected result: "12345"
