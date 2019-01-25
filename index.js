@@ -31,10 +31,8 @@ function iLoveTheBeatles(number){
 var array = [];
 
 do {
-
-
-} while (number < 15)
-
+} while(number < 15){
+}
 }
 
 
