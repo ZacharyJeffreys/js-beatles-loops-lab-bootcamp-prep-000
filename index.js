@@ -33,6 +33,7 @@ var newNum = number
 
 do {
   newNum = newNum + 1
+  
 } while(newNum < 15){
   array.push('I love the Beatles!')
   }
