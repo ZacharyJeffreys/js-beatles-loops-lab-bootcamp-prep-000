@@ -29,7 +29,7 @@ function johnLennonFacts(facts){
 function iLoveTheBeatles(number){
 
 var array = [];
-var newNum = number + 1
+var newNum = number 
 
 do {
   newNum = newNum + 1
