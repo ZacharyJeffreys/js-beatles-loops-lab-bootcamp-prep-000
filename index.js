@@ -33,10 +33,7 @@ var array = [];
 do {
 
 
-} while (number < 15);
-
-console.log(result);
-// expected result: "12345"
+} while (number < 15)
 
 }
 
